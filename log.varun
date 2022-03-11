@@ -4,7 +4,7 @@ public class logvarun
     { 
         int i;
 
-        for (i=0;i<=10;i++){
+        for (i=0;i<=15;i++){
             system.out.println("Number: " + i);
            }
     }
